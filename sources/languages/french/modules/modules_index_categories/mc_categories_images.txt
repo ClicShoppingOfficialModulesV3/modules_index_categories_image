@@ -1,0 +1,3 @@
+module_index_categories_images_title = Souhaitez-vous afficher les images des  catégories ?
+module_index_categories_images_description = Affiche les images des catégories.
+

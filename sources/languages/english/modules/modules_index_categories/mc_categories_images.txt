@@ -1,0 +1,4 @@
+
+ module_index_categories_images_title = Do  you want to display the images of categories  ?
+ module_index_categories_images_description = Display the categories images.
+
